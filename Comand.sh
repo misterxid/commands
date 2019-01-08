@@ -85,7 +85,7 @@ sleep 0.1;
 clear
 
 figlet  welcome to the code xidploit maker | lolcat
-sleep 4
+sleep 5
 echo "wait a second" | lolcat
 sleep 3
  
@@ -141,7 +141,7 @@ echo                      " [•]Wa       :  083851312460            []"|lolcat
 echo                      " [•]thanks to: I T A                    []"|lolcat
 echo                      " [•]Thansk to: L4EFY                    []"|lolcat
 echo                      " [•]thanks to: D35TR0Y SQUAD            []"|lolcat
-echo                      " [•]Note2    : Copyright©MR_XID 2018    []"
+echo                      " [•]Note2    : Copyright©2018           []"
 echo                      " [•]===><==<>===><===<>===><===<>===><==[]"|lolcat
 
 echo    "<•¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤•>" | lolcat
